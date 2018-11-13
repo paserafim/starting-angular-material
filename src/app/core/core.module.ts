@@ -8,7 +8,6 @@ import { ToolbarComponent } from './components/toolbar/toolbar.component';
   imports: [
     CommonModule,
     AngularMaterialModule
-
   ],
   exports: [
     ToolbarComponent
